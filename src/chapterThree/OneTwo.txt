@@ -1,0 +1,21 @@
+	public class OneTwo {
+		public static void main(String [] args) {
+		
+		
+		Scanner input = new Scanner(System.in);
+
+		int one = newinput();
+	
+		System.out.print("Enter a number");
+
+		if (one == 0);
+		System.out.println("1");
+
+		if (one!= 0) {
+		System.out.println("0");
+}
+
+		
+}
+} 
+		
